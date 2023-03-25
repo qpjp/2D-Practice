@@ -7,7 +7,7 @@ AnimatorOverrideController:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Bunny Animator Override Controller
-  m_Controller: {fileID: 9100000, guid: ebea9b15ac511f141babcd6f2521bb69, type: 2}
+  m_Controller: {fileID: 9100000, guid: 61f5c640aca1e1d4c805f0d1c2177419, type: 2}
   m_Clips:
-  - m_OriginalClip: {fileID: 7400000, guid: 92009438312665347b64bdd09bcdd06e, type: 2}
-    m_OverrideClip: {fileID: 7400000, guid: fc1782d2f3476a84f8ab339965a4c80d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fc1782d2f3476a84f8ab339965a4c80d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 92009438312665347b64bdd09bcdd06e, type: 2}
