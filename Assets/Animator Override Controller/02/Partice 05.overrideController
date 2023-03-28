@@ -6,12 +6,10 @@ AnimatorOverrideController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: partive05_bat
-  m_Controller: {fileID: 9100000, guid: 3f5f5d2710aa80a45a2bbf561529e308, type: 2}
+  m_Name: Partice 05
+  m_Controller: {fileID: 9100000, guid: 1a8bd24878dd9bd44ba24e7032a1c765, type: 2}
   m_Clips:
   - m_OriginalClip: {fileID: 7400000, guid: 0804152f1aa495b44ba714b93409ba8b, type: 2}
     m_OverrideClip: {fileID: 7400000, guid: 0804152f1aa495b44ba714b93409ba8b, type: 2}
   - m_OriginalClip: {fileID: 7400000, guid: 345d583b28bd78649924809cd773ca90, type: 2}
     m_OverrideClip: {fileID: 7400000, guid: 345d583b28bd78649924809cd773ca90, type: 2}
-  - m_OriginalClip: {fileID: 7400000, guid: e7c8712486eda114bb410015dd1331a3, type: 2}
-    m_OverrideClip: {fileID: 7400000, guid: e7c8712486eda114bb410015dd1331a3, type: 2}
