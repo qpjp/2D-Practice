@@ -324,7 +324,7 @@ GameObject:
   - component: {fileID: 959783380}
   - component: {fileID: 959783379}
   m_Layer: 5
-  m_Name: BG
+  m_Name: Practice 06
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
